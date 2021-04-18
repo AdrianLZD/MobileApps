@@ -1,226 +1,226 @@
 [
     {
-        "latitude": "12.986375",
-        "user_id": 12,
+        "phone": "12986375",
+        "age": 12,
         "name": "Chris",
-        "longitude": "77.043701",
+        "address": "89 Elgin Street",
         "hobby": "Listen music"
     },
     {
-        "latitude": "11.92893",
-        "user_id": 1,
+        "phone": "1192893",
+        "age": 1,
         "name": "Alice",
-        "longitude": "78.27699",
+        "address": "30 Butler Crescent",
         "hobby": "Write"
     },
     {
-        "latitude": "11.8856167",
-        "user_id": 2,
+        "phone": "118856167",
+        "age": 2,
         "name": "Ian",
-        "longitude": "78.4240911",
+        "address": "7 Hill Street",
         "hobby": "Listen to podcasts"
     },
     {
-        "latitude": "12.3191841",
-        "user_id": 3,
+        "phone": "123191841",
+        "age": 3,
         "name": "Jack",
-        "longitude": "78.5072391",
+        "address": "87 Feather Street",
         "hobby": "Watch movies"
     },
     {
-        "latitude": "13.807778",
-        "user_id": 28,
+        "phone": "13807778",
+        "age": 28,
         "name": "Charlie",
-        "longitude": "76.714444",
+        "address": "61 Walder Crescent",
         "hobby": "Dance"
     },
     {
-        "latitude": "13.4692815",
-        "user_id": 7,
+        "phone": "134692815",
+        "age": 7,
         "name": "Frank",
-        "longitude": "-9.436036",
+        "address": "51 Boobialla Street",
         "hobby": "Lie"
     },
     {
-        "latitude": "14.0894797",
-        "user_id": 8,
+        "phone": "140894797",
+        "age": 8,
         "name": "Eoin",
-        "longitude": "77.18671",
+        "address": "48 Ryker Rd",
         "hobby": "Eat"
     },
     {
-        "latitude": "13.038056",
-        "user_id": 26,
+        "phone": "13038056",
+        "age": 26,
         "name": "Stephen",
-        "longitude": "76.613889",
+        "address": "64 Souttar Terrace",
         "hobby": "Cook"
     },
     {
-        "latitude": "14.1225",
-        "user_id": 27,
+        "phone": "141225",
+        "age": 27,
         "name": "Enid",
-        "longitude": "78.143333",
+        "address": "71 Glenpark Road",
         "hobby": "Take long walks"
     },
     {
-        "latitude": "13.1229599",
-        "user_id": 6,
+        "phone": "131229599",
+        "age": 6,
         "name": "Theresa",
-        "longitude": "77.2701202",
+        "address": "85 Baker Street",
         "hobby": "Sleep"
     },
     {
-        "latitude": "12.2559432",
-        "user_id": 9,
-        "name": "Jack",
-        "longitude": "76.1048927",
+        "phone": "122559432",
+        "age": 9,
+        "name": "Ponti",
+        "address": "27 Ross Street",
         "hobby": "Search treasures"
     },
     {
-        "latitude": "12.240382",
-        "user_id": 10,
+        "phone": "12240382",
+        "age": 10,
         "name": "Georgina",
-        "longitude": "77.972413",
+        "address": "79 Watson Street",
         "hobby": "Go to the mall"
     },
     {
-        "latitude": "13.2411022",
-        "user_id": 4,
-        "name": "Ian",
-        "longitude": "77.238335",
+        "phone": "132411022",
+        "age": 4,
+        "name": "Gale",
+        "address": "76 Seninis Road",
         "hobby": "Steal"
     },
     {
-        "latitude": "13.1302756",
-        "user_id": 5,
+        "phone": "131302756",
+        "age": 5,
         "name": "Nora",
-        "longitude": "77.2397222",
+        "address": "77.2397222",
         "hobby": "Play football"
     },
     {
-        "latitude": "13.008769",
-        "user_id": 11,
+        "phone": "13008769",
+        "age": 11,
         "name": "Richard",
-        "longitude": "77.1056711",
+        "address": "93 Ageston Road",
         "hobby": "Go to the kitchen"
     },
     {
-        "latitude": "13.1489345",
-        "user_id": 31,
+        "phone": "131489345",
+        "age": 31,
         "name": "Alan",
-        "longitude": "77.8422408",
+        "address": "2 Campbells River Road",
         "hobby": "Do chores"
     },
     {
-        "latitude": "13",
-        "user_id": 13,
+        "phone": "13252352",
+        "age": 13,
         "name": "Olive",
-        "longitude": "76",
+        "address": "22 Sunset Drive",
         "hobby": "Break dancing"
     },
     {
-        "latitude": "11.999447",
-        "user_id": 14,
+        "phone": "11999447",
+        "age": 14,
         "name": "Helen",
-        "longitude": "-9.742744",
+        "address": "46 Passage Avenue",
         "hobby": "Yoga"
     },
     {
-        "latitude": "12.966",
-        "user_id": 15,
+        "phone": "129613246",
+        "age": 15,
         "name": "Michael",
-        "longitude": "77.463",
+        "address": "76 Campbells River Road",
         "hobby": "Watch kung fu panda"
     },
     {
-        "latitude": "12.366037",
-        "user_id": 16,
-        "name": "Ian",
-        "longitude": "78.179118",
+        "phone": "12366037",
+        "age": 16,
+        "name": "Iana",
+        "address": "36 Village Drive",
         "hobby": "Walk in the beach"
     },
     {
-        "latitude": "14.180238",
-        "user_id": 17,
+        "phone": "14180238",
+        "age": 17,
         "name": "Patricia",
-        "longitude": "-5.920898",
+        "address": "21 Kintyre Street",
         "hobby": "Drive"
     },
     {
-        "latitude": "13.0033946",
-        "user_id": 39,
+        "phone": "130033946",
+        "age": 39,
         "name": "Lisa",
-        "longitude": "77.3877505",
+        "address": "80 Moruya Road",
         "hobby": "Cross the street"
     },
     {
-        "latitude": "12.228056",
-        "user_id": 18,
+        "phone": "12228056",
+        "age": 18,
         "name": "Bob",
-        "longitude": "76.915833",
+        "address": "749 Boonah Qld",
         "hobby": "Moon walk"
     },
     {
-        "latitude": "14.133333",
-        "user_id": 24,
+        "phone": "14133333",
+        "age": 24,
         "name": "Rose",
-        "longitude": "77.433333",
+        "address": "48 Webb Road",
         "hobby": "Tell the truth"
     },
     {
-        "latitude": "55.033",
-        "user_id": 19,
-        "name": "Enid",
-        "longitude": "78.112",
+        "phone": "550678633",
+        "age": 19,
+        "name": "Enop",
+        "address": "8 Dabinett Road",
         "hobby": "Do a good hobby"
     },
     {
-        "latitude": "13.121111",
-        "user_id": 20,
-        "name": "Enid",
-        "longitude": "-9.831111",
+        "phone": "13121111",
+        "age": 20,
+        "name": "Ernest",
+        "address": "45 Ocean Pde",
         "hobby": "Do a bad hobby"
     },
     {
-        "latitude": "11.802",
-        "user_id": 21,
+        "phone": "11234802",
+        "age": 21,
         "name": "David",
-        "longitude": "-9.442",
+        "address": "-9.442",
         "hobby": "Go to church"
     },
     {
-        "latitude": "14.374208",
-        "user_id": 22,
-        "name": "Charlie",
-        "longitude": "78.371639",
+        "phone": "14374208",
+        "age": 22,
+        "name": "Tom",
+        "address": "47 Henry Street",
         "hobby": "Drink"
     },
     {
-        "latitude": "13.74412",
-        "user_id": 29,
+        "phone": "137874412",
+        "age": 29,
         "name": "Oliver",
-        "longitude": "76.11167",
+        "address": "30 Warren Avenue",
         "hobby": "Pirate stuff"
     },
     {
-        "latitude": "13.761389",
-        "user_id": 30,
+        "phone": "139761389",
+        "age": 30,
         "name": "Nick",
-        "longitude": "76.2875",
+        "address": "17 Friar John Way",
         "hobby": "Make long calls"
     },
     {
-        "latitude": "14.080556",
-        "user_id": 23,
-        "name": "Eoin",
-        "longitude": "77.361944",
+        "phone": "140080556",
+        "age": 23,
+        "name": "Julian",
+        "address": "77 Dabinett Road",
         "hobby": "Travel"
     },
     {
-        "latitude": "12.833502",
-        "user_id": 25,
-        "name": "David",
-        "longitude": "78.122366",
+        "phone": "122833502",
+        "age": 25,
+        "name": "Dave",
+        "address": "60 Passage Avenue",
         "hobby": "Play videogames"
     }
 ]
